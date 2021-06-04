@@ -1,2 +1,2 @@
-# git.githubpiya
+# git.github
 Git Projects Repo
